@@ -1,6 +1,6 @@
-# [So Simple Jekyll Theme][1]
+# FoxerCoeee
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/mmistakes/so-simple-theme/master/LICENSE)
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/mmistakes/FoxerCoeee/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg?style=flat-square)](https://jekyllrb.com/)
 [![Ruby gem](https://img.shields.io/gem/v/jekyll-theme-so-simple.svg?style=flat-square)](https://rubygems.org/gems/jekyll-theme-so-simple)
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?style=flat-square&logo=paypal)](https://www.paypal.me/mmistakes)
@@ -25,7 +25,7 @@ So Simple is a simple [Jekyll theme](https://jekyllrb.com/docs/themes/) for your
 
 ![So Simple layouts](screenshots.jpg)
 
-[1]: https://mmistakes.github.io/so-simple-theme/
+[1]: https://mmistakes.github.io/FoxerCoeee/
 [2]: screenshot.png "site preview"
 
 ## Sample Pages
@@ -42,26 +42,26 @@ So Simple is a simple [Jekyll theme](https://jekyllrb.com/docs/themes/) for your
 | Category page. | [Preview][category-page-preview] | [Source][category-page-source] |
 | Listing of documents in grid view. | [Preview][grid-view-preview] | [Source][grid-view-source] |
 
-[post-hero-preview]: https://mmistakes.github.io/so-simple-theme/layout/layout-hero-image/
+[post-hero-preview]: https://mmistakes.github.io/FoxerCoeee/layout/layout-hero-image/
 [post-hero-source]: docs/_posts/2012-03-14-layout-hero-image.md
-[post-html-elements-preview]: https://mmistakes.github.io/so-simple-theme/markup/markup-html-elements-and-formatting/
+[post-html-elements-preview]: https://mmistakes.github.io/FoxerCoeee/markup/markup-html-elements-and-formatting/
 [post-html-elements-source]: docs/_posts/2013-01-11-markup-html-elements-and-formatting.md
-[post-syntax-preview]: https://mmistakes.github.io/so-simple-theme/markup-syntax-highlighting/
+[post-syntax-preview]: https://mmistakes.github.io/FoxerCoeee/markup-syntax-highlighting/
 [post-syntax-code]: docs/_posts/2013-08-16-markup-syntax-highlighting.md
-[post-image-alignment-preview]: https://mmistakes.github.io/so-simple-theme/markup/markup-image-alignment/
+[post-image-alignment-preview]: https://mmistakes.github.io/FoxerCoeee/markup/markup-image-alignment/
 [post-image-alignment-source]: docs/_posts/2013-01-10-markup-image-alignment.md
-[posts-year-preview]: https://mmistakes.github.io/so-simple-theme/posts/
+[posts-year-preview]: https://mmistakes.github.io/FoxerCoeee/posts/
 [posts-year-source]: docs/posts.md
-[posts-category-preview]: https://mmistakes.github.io/so-simple-theme/categories/
+[posts-category-preview]: https://mmistakes.github.io/FoxerCoeee/categories/
 [posts-category-source]: docs/categories.md
-[posts-tag-preview]: https://mmistakes.github.io/so-simple-theme/tags/
+[posts-tag-preview]: https://mmistakes.github.io/FoxerCoeee/tags/
 [posts-tag-source]: docs/tags.md
-[category-page-preview]: https://mmistakes.github.io/so-simple-theme/categories/edge-case/
+[category-page-preview]: https://mmistakes.github.io/FoxerCoeee/categories/edge-case/
 [category-page-source]: docs/edge-case.md
-[grid-view-preview]: https://mmistakes.github.io/so-simple-theme/recipes/
+[grid-view-preview]: https://mmistakes.github.io/FoxerCoeee/recipes/
 [grid-view-source]: docs/recipes.md
 
-Additional [sample posts](https://mmistakes.github.io/so-simple-theme/posts/) can be view on the demo site. Source files for these (and the entire demo site) can be found in [`/docs`](docs) folder.
+Additional [sample posts](https://mmistakes.github.io/FoxerCoeee/posts/) can be view on the demo site. Source files for these (and the entire demo site) can be found in [`/docs`](docs) folder.
 
 ## Table of Contents
 
@@ -173,7 +173,7 @@ GitHub Pages has added [full support](https://github.com/blog/2464-use-any-theme
 
 2. Run `bundle update` and verify that all gems install properly.
 
-3. Add `remote_theme: "mmistakes/so-simple-theme@3.2.0"` to your
+3. Add `remote_theme: "mmistakes/FoxerCoeee@3.2.0"` to your
    `_config.yml` file. Remove any other `theme:` or `remote_theme:` entries.
 
 ---
@@ -184,7 +184,7 @@ If you're hosting several Jekyll based sites under the same GitHub username you 
 
 #### Remove the Unnecessary
 
-If you forked or downloaded the [`so-simple-theme` repo](https://github.com/mmistakes/so-simple-theme) you can safely remove the following files and folders:
+If you forked or downloaded the [`FoxerCoeee` repo](https://github.com/mmistakes/FoxerCoeee) you can safely remove the following files and folders:
 
 * `.github`
 * `docs`
@@ -212,7 +212,7 @@ To check which version you are currently using, view the source of your built si
     So Simple Jekyll Theme 3.0.0
     Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
     Free for personal and commercial use under the MIT license
-    https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
+    https://github.com/mmistakes/FoxerCoeee/blob/master/LICENSE
 -->
 ```
 
@@ -224,10 +224,10 @@ Simply run `bundle update` if you're using Bundler (have a `Gemfile`) or `gem up
 
 ### Remote Theme
 
-Verify you have the [latest version](https://github.com/mmistakes/so-simple-theme/releases) assigned in `_config.yml`
+Verify you have the [latest version](https://github.com/mmistakes/FoxerCoeee/releases) assigned in `_config.yml`
 
 ```
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+remote_theme: "mmistakes/FoxerCoeee@3.2.0"
 ```
 
 Note: If `@x.x.x` is omitted the theme's current `master` branch will be used. It is advised to ["lock" `remote_theme`](https://github.com/benbalter/jekyll-remote-theme#declaring-your-theme) at a specific version to avoid introducing breaking changes to your site.
@@ -244,12 +244,12 @@ git commit --allow-empty -m "Force rebuild of site"
 
 If you want to get the most out of the Jekyll + GitHub Pages workflow, then you'll need to utilize Git. To pull down theme updates manually you must first ensure there's an upstream remote. If you forked the theme's repo then you're likely good to go.
 
-To double check, run `git remote -v` and verify that you can fetch from `origin https://github.com/mmistakes/so-simple-theme.git`.
+To double check, run `git remote -v` and verify that you can fetch from `origin https://github.com/mmistakes/FoxerCoeee.git`.
 
 To add it you can do the following:
 
 ```terminal
-git remote add upstream https://github.com/mmistakes/so-simple-theme.git
+git remote add upstream https://github.com/mmistakes/FoxerCoeee.git
 ```
 
 #### Pull Down Updates
@@ -264,7 +264,7 @@ Depending on the amount of customizations you've made after forking, there's lik
 
 ### Update Files Manually
 
-Another way of dealing with updates is [downloading the theme](https://github.com/mmistakes/so-simple-theme/archive/master.zip) --- replacing your layouts, includes, and assets with the newer ones manually. To be sure that you don't miss any changes review the theme's [commit history](https://github.com/mmistakes/so-simple-theme/commits/master) to see what has changed.
+Another way of dealing with updates is [downloading the theme](https://github.com/mmistakes/FoxerCoeee/archive/master.zip) --- replacing your layouts, includes, and assets with the newer ones manually. To be sure that you don't miss any changes review the theme's [commit history](https://github.com/mmistakes/FoxerCoeee/commits/master) to see what has changed.
 
 Here's a quick checklist of the important folders/files you'll want to be mindful of:
 
@@ -340,7 +340,7 @@ Three skins (default, light, and dark) are available to change the color palette
 
 | `default.css` | `light.css` | `dark.css` |
 | --- | --- | --- |
-| ![default skin](https://mmistakes.github.io/so-simple-theme/images/default-skin.png) | ![light skin](https://mmistakes.github.io/so-simple-theme/images/light-skin.png) | ![dark skin](https://mmistakes.github.io/so-simple-theme/images/dark-skin.png) |
+| ![default skin](https://mmistakes.github.io/FoxerCoeee/images/default-skin.png) | ![light skin](https://mmistakes.github.io/FoxerCoeee/images/light-skin.png) | ![dark skin](https://mmistakes.github.io/FoxerCoeee/images/dark-skin.png) |
 
 ```yaml
 skin: "/assets/css/skins/default.css"
@@ -350,7 +350,7 @@ skin: "/assets/css/skins/dark.css"
 
 To use a custom skin other than the ones provided:
 
-1. Copy and rename [`/assets/css/skins/default.scss`](https://github.com/mmistakes/so-simple-theme/blob/master/assets/css/skins/default.scss) to your local repo.
+1. Copy and rename [`/assets/css/skins/default.scss`](https://github.com/mmistakes/FoxerCoeee/blob/master/assets/css/skins/default.scss) to your local repo.
 2. Override and customize Sass variables as you see fit.
 3. Update the `skin` path in `_config.yml` to reference this new skin `.css` file.
 
@@ -376,7 +376,7 @@ GitHub Pages now [forces `https://` for new sites](https://help.github.com/artic
 
 This option causes all kinds of confusion in the Jekyll community. If you're not hosting your site as a [GitHub Project Page](https://help.github.com/articles/user-organization-and-project-pages/) or in a subfolder (e.g., `/blog`), then don't mess with it.
 
-In the case of the **So Simple** demo site it's hosted on GitHub at <https://mmistakes.github.io/so-simple-theme>. To correctly set this base path I'd use `url: "https://mmistakes.github.io"` and `baseurl: "/so-simple-theme"`.
+In the case of the **So Simple** demo site it's hosted on GitHub at <https://mmistakes.github.io/FoxerCoeee>. To correctly set this base path I'd use `url: "https://mmistakes.github.io"` and `baseurl: "/FoxerCoeee"`.
 
 For more information on how to properly use `site.url` and `site.baseurl` as intended by the Jekyll maintainers, check [Parker Moore's post on the subject](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/).
 
@@ -1198,8 +1198,8 @@ Found a typo in the documentation? Requesting a feature or
 
 If your contribution adds or changes the theme's behavior, make sure to update the documentation and/or sample content. Documentation lives in README.md while sample posts, pages, and collections are in the [`docs`](docs) and [`example`](example) folders.
 
-[issues]: https://github.com/mmistakes/so-simple-theme/issues
-[new-issue]: https://github.com/mmistakes/so-simple-theme/issues/new
+[issues]: https://github.com/mmistakes/FoxerCoeee/issues
+[new-issue]: https://github.com/mmistakes/FoxerCoeee/issues/new
 [using-pull-requests]: https://help.github.com/articles/using-pull-requests/
 [github-flow]: https://guides.github.com/introduction/flow/
 
